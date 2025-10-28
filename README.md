@@ -2,6 +2,10 @@ Psych UI made into a haxelib. All credits to Psych Engine team.
 
 ## Installation
 
+``` bash
+haxelib git psych-ui https://github.com/Brainy0789/psych-ui
+```
+
 Copy the assets folder of this haxelib into your own source code, and then add something like this to your
 Project.xml (or similar)
 ``` xml
